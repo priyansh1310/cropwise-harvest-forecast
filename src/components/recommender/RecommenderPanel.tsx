@@ -8,7 +8,9 @@ import {
   DollarSign,
   ArrowRight,
   BarChart,
-  Loader2
+  Loader2,
+  Cloud,
+  TrendingUp
 } from 'lucide-react';
 
 const RecommenderPanel = () => {

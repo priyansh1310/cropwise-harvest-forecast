@@ -7,7 +7,10 @@ import {
   Droplets, 
   TrendingUp, 
   Landmark, 
-  Bell
+  Bell,
+  User,
+  Cloud,
+  Sun
 } from 'lucide-react';
 
 const Dashboard = () => {
